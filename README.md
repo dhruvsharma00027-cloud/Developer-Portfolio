@@ -1,7 +1,7 @@
 # Developer-Portfolio
 # DeveloperPortfolio
 
-Welcome to my Developer Portfolio! I am Dhruv Sharma , a B.Tech CSE student at K.R. Mangalam University, interested in Artificial Intelligence, Machine Learning and Cybersecurity.
+Welcome to my Developer Portfolio! I am Dhruv, a B.Tech CSE student at K.R. Mangalam University, interested in Artificial Intelligence, Machine Learning and Cybersecurity.
 
 This repository documents my technical learning, Linux practice, shell scripting, API interaction and professional development throughout my degree.
 
